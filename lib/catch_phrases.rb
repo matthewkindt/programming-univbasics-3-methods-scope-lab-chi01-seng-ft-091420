@@ -17,4 +17,4 @@ end
 def all_phrases
 puts "It's-a me, Mario!"
 end
-all_phrases
+all_phrases()
