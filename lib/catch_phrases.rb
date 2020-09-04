@@ -14,7 +14,7 @@ def link(phrase = "It's Dangerous To Go Alone! Take This.")
   puts phrase
 end
 
-def all_phrases("Thank You Mario! But Our Princess Is In Another Castle!", "It's Dangerous To Go Alone! Take This.")
+def all_phrases
 puts "It's-a me, Mario!"
 end
 all_phrases
