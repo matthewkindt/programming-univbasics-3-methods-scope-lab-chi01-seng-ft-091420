@@ -17,7 +17,7 @@ end
 def all_phrases
   phrase = 
   phrase = "Thank You Mario! But Our Princess Is In Another Castle!"
-  phrase = "It's Dangerous To Go Alone! Take This."
+  phrase = "It's-a me, Mario!""It's Dangerous To Go Alone! Take This."
   puts phrase
 end
 all_phrases
