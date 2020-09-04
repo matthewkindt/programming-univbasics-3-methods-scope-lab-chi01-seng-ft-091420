@@ -15,6 +15,7 @@ def link(phrase = "It's Dangerous To Go Alone! Take This.")
 end
 
 def all_phrases
+  phrase =
   phrase = "It's-a me, Mario!"
   puts phrase
 end
