@@ -17,4 +17,5 @@ end
 def all_phrases
 puts "It's-a me, Mario!"
 end
+puts ""
 end
